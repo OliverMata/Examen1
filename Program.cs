@@ -11,7 +11,7 @@ namespace Examen1
             do
             {
                 Console.WriteLine("");
-                Console.WriteLine("Bienbenido al cajero FDP INVERSMENTS");
+                Console.WriteLine("Bienvenido al cajero FDP INVERSMENTS");
                 Console.WriteLine("");
                 Console.WriteLine("1. Depositar");
                 Console.WriteLine("");
